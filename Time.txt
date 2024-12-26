@@ -1,1 +1,8 @@
-00hr 33min 00sec
+00hr 54min 00sec
+
+
+
+Video: https://www.youtube.com/watch?v=_PQ7NSppj3Q
+
+ng generate component my-standalone-component --standalone
+this command is used to create the standalone component
